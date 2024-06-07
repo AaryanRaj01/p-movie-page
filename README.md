@@ -4,6 +4,12 @@
 
 This project is a movie application with a frontend built using React and a backend built using Node.js and Express. It also includes a MongoDB database for storing movie data.
 
+## Images
+![Screenshot 2024-06-07 155813](https://github.com/AaryanRaj01/p-movie-page/assets/99470935/98b93156-132f-43ec-879f-fc31a3b17dfb)
+![image](https://github.com/AaryanRaj01/p-movie-page/assets/99470935/99a82d55-6870-4a83-b21c-12a79e0db703)
+
+
+
 ## Prerequisites
 
 - Node.js
